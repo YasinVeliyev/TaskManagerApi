@@ -1,7 +1,7 @@
-patch http://localhost:3000/api/v1/tasks/123
-# content-type: application/json
+patch http://localhost:3000/api/v1/tasks/2
+content-type: application/json
 
-# {
-#     "name":"shakeAndBake",
-#     "completed":true
-# }
+{
+    "name":"Learn React Js",
+    "completed":false
+}
