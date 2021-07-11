@@ -1,0 +1,7 @@
+patch http://localhost:3000/api/v1/tasks/123
+# content-type: application/json
+
+# {
+#     "name":"shakeAndBake",
+#     "completed":true
+# }
